@@ -1,4 +1,4 @@
-# BigQuery-PBI_Inventory_Controlling
+# SQL-PBI_Inventory_Controlling
 
 ## I. Introduction
 ### 1. Business question
