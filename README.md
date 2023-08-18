@@ -1,4 +1,5 @@
 # SQL-PBI_Inventory_Controlling
+Please see the pdf files attached above
 
 ## I. Introduction
 ### 1. Business question
