@@ -59,7 +59,7 @@ Dataset access:
 
 ### 3. Build dashboard
 
-- Using DAX to create measure and calculated columns
+- Using DAX to create measures and calculated columns
 - Build 2 report pages
 
 **Overview of inventory by time/location/product**
